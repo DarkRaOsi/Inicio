@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|c:\\users\\darru\\desktop\\gitingsoftware\\proyect_ing_software\\assets\\scripts\\menupause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menupause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|c:\\users\\darru\\desktop\\gitingsoftware\\proyect_ing_software\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|c:\\users\\darru\\desktop\\gitingsoftware\\proyect_ing_software\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5630E244-CE58-5260-73AC-309970C08E20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuPause.cs",
-              "DocumentMoniker": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\Assets\\Scripts\\MenuPause.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuPause.cs",
-              "ToolTip": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\Assets\\Scripts\\MenuPause.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MenuPause.cs",
+              "DocumentIndex": 1,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T18:50:53.664Z",
+              "WhenOpened": "2025-07-06T19:33:23.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\Assets\\Scripts\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
               "ToolTip": "C:\\Users\\darru\\Desktop\\GitIngSoftware\\Proyect_Ing_Software\\Assets\\Scripts\\Menu.cs",
               "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T17:49:10.801Z",
               "EditorCaption": ""
